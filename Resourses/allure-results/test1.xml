@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1458138769345" stop="1458138769477" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>my.company.tests.TheoryTest</name>
+    <test-cases>
+        <test-case start="1458138769346" stop="1458138769371" status="passed">
+            <name>usernameNotContainsSlash</name>
+            <steps>
+                <step start="1458138769358" stop="1458138769368" status="passed">
+                    <name>checkUserName[optimus]</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1458138769370" stop="1458138769370" status="passed">
+                    <name>checkUserName[optimus-prime]</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="nb-kit"/>
+                <label name="thread" value="10320@nb-kit.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
