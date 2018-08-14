@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ns2:test-suite start="1458138763698" stop="1458138769515" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-tewetstart="1458138763698" stop="1458138769515" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>my.company.tests.SearchTest</name>
     <test-cases>
         <test-case start="1458138763714" stop="1458138769286" status="passed">
