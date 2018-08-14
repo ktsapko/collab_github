@@ -21,7 +21,7 @@
                 <label name="host" value="nb-kit"/>
                 <label name="thread" value="10320@nb-kit.main(1)"/>
             </labels>
-        </test-case>
+        </test-ca4444se>
     </test-cases>
     <labels>
         <label name="framework" value="JUnit"/>
