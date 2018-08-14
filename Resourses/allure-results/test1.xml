@@ -22,7 +22,7 @@
                 <label name="thread" value="10320@nb-kit.main(1)"/>
             </labels>
         </test-ca4444se>
-    </test-cases>
+    </test-cas553353es>
     <labels>
         <label name="framework" value="JUnit"/>
         <label name="language" value="JAVA"/>
